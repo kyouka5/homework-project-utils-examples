@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"games.dummy","l":"ConsoleGame"},{"p":"games.nim","l":"ConsoleGame"},{"p":"games.dummy","l":"DummyState"},{"p":"games.nim","l":"NimState"},{"p":"games.dummy","l":"Position"},{"p":"puzzles.jugs","l":"ThreeJugsState"}];updateSearchResults();
